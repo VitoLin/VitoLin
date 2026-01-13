@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:
   - Organizations Data team at AWS
   - Model Context Protocol Wrapped (MCPWrapped) a small proxy for MCP servers: [npm](www.npmjs.com/package/mcpwrapped) | [github](https://github.com/VitoLin/mcpwrapped)
-
+- 📚 View my blog at [linvi.to](https://linvi.to/)
 - 📫 Reach me at vitolin1000@gmail.com
 
 <h3 align="left">Connect with me:</h3>
