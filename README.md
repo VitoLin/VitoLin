@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on:
   - Organizations Data team at AWS
-  - Model Context Protocol Wrapped (MCPWrapped) a small proxy for MCP servers: [npm](www.npmjs.com/package/mcpwrapped) | [github](https://github.com/VitoLin/mcpwrapped)
+  - OpenCode plugin for [MorphLLM](https://www.morphllm.com/) tools: [opencode-morphllm](https://github.com/VitoLin/opencode-morphllm) | [npm](https://www.npmjs.com/package/opencode-morphllm)
+  - Model Context Protocol Wrapped (MCPWrapped) a small proxy for MCP servers: [mcpwrapped](https://github.com/VitoLin/mcpwrapped) | [npm](https://www.npmjs.com/package/mcpwrapped)
 - 📚 View my blog at [linvi.to](https://linvi.to/)
 - 📫 Reach me at vitolin1000@gmail.com
 
